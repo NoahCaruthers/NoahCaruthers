@@ -1,7 +1,7 @@
 
 -  Hi, I’m @NoahCaruthers
 -
-- CS 250 -  
+-         CS 250
 - How do I interpret user needs and implement them into a program? How does creating “user stories” help with this?
     -  It is important to be accesible to the end user. I think that it helps to ask the user questions about what kind of functions and implementaions that they want in a program.
      The user stories are used to show the team how I would interpret the users needs.
@@ -10,7 +10,7 @@
 - What does it mean to be a good team member in software development?
     -  It means that not only do you do your part, but that you help others and ask questions when you do not understand something. Nothing hurts a team more than someone not understanding something
     and not saying anything or not getting the help that they need.
-- CS 230-
+-         CS 230
 - Briefly summarize The Gaming Room client and their software requirements. Who was the client? What type of software did they want you to design?
     -  For this project, I was tasked to discover sofware requirements and potential design constraints. I was then made to compare and contrast between four of the traditional OS from server side, client side, and developments tools. Based on all of this I had to make recommendations for the operating plaform, OS architectures, storage management, memory management, Distributed Systems and Networks, and security.
 - What did you do particularly well in developing this documentation?
